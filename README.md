@@ -20,6 +20,6 @@ This course is designed to train non technical individuals through EDGE to enhan
 
  **Online Popular Editor for python Coding:**
  - [Google Colab](https://colab.research.google.com/)
- - How to use Colab: [English Tutorial](https://www.youtube.com/watch?v=vuFTrylVwno) [Bangla Tutorila](https://www.youtube.com/watch?v=0j-TEeuocy4)
+ - How to use Colab: [English Tutorial](https://www.youtube.com/watch?v=vuFTrylVwno) or  [Bangla Tutorial](https://www.youtube.com/watch?v=0j-TEeuocy4)
 
 - [Online Python Tool](https://www.online-python.com/)
