@@ -9,11 +9,11 @@ Here are some important updates and instructions about this course:
 - Will be announced soon
 
 ## 3. Quiz Exam:
-- Quiz 1: 2 Nov (Saturday) during class time.
+- Quiz 1: 4 Nov (Monday) during class time.
 - Quiz 2: Will be announced soon.
 
 ## 4. Mid Exam:
-- Mid Exam date: **9 Nov (Saturday)** during class time.
+- Mid Exam date: **16 Nov (Saturday)** during class time.
 
 
 ## 5. Profile Link Submission:
