@@ -13,7 +13,7 @@ Here are some important updates and instructions about this course:
 - Quiz 2: Will be announced soon.
 
 ## 4. Mid Exam:
-- Mid Exam date: **16 Nov (Saturday)** during class time.
+- Mid Exam date: **15 Nov (Friday)** (11.30am-3.00pm) at *IOT Lab*
 
 
 ## 5. Profile Link Submission:
