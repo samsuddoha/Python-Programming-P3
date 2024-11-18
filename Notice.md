@@ -6,11 +6,11 @@ Here are some important updates and instructions about this course:
 - Class Started on: 21 October 2024.
 
  ## 2. End of Class (Expected):
-- Will be announced soon
+- 7th December 24 (Expected)
 
 ## 3. Quiz Exam:
 - Quiz 1: 4 Nov (Monday) during class time.
-- Quiz 2: Will be announced soon.
+- **Quiz 2: 23 November**.
 
 ## 4. Mid Exam:
 - Mid Exam date: **15 Nov (Friday)** (11.30am-3.00pm) at *IOT Lab*
@@ -32,10 +32,15 @@ Submit your freelancing profile link in the following google sheet. Create a pro
 
 
 ## 6. Assignment Submission:
-- Will be announced soon.
+- Last date of Assignment submission: **23 November 2024**.
+- Find Assignment details here: [Assignment]()
+- Submit your assignment in github and share the github link here : [Python Batch 5]()
 
+## 7.Project Submission:
+- last date of project submission: **4 December 24**.
+- Find project details here: [Project]()
 
-## 7. Final Exam:
-- Date and details will be announced soon.
+## 8. Final Exam:
+- Tentative Final Exam date: **7 December 24**.
 
 Please ensure that all tasks are completed on time to avoid any delays in your final evaluation.
