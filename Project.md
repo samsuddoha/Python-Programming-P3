@@ -23,7 +23,7 @@ You have to submit your project in github repository.
 - Push your project folder to the repository.
 - Make sure your repository is public.
 - Share the github link in the following google sheet:
-    - [Python Batch 5]().
+    - [Python Batch 5](https://docs.google.com/spreadsheets/d/1Nhtp9AlUe0RF9gb-roqnM3eB2Wh9SRwpNtaS-kyKIPw/edit?gid=1778336482#gid=1778336482).
 
 
 ## 4. Deadline: 

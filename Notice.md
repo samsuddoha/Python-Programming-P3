@@ -33,12 +33,12 @@ Submit your freelancing profile link in the following google sheet. Create a pro
 
 ## 6. Assignment Submission:
 - Last date of Assignment submission: **23 November 2024**.
-- Find Assignment details here: [Assignment]()
-- Submit your assignment in github and share the github link here : [Python Batch 5]()
+- Find Assignment details here: [Assignment](https://github.com/samsuddoha/Python-Programming-P3/tree/main/Assignment)
+- Submit your assignment in github and share the github link here : [Python Batch 5](https://docs.google.com/spreadsheets/d/1Nhtp9AlUe0RF9gb-roqnM3eB2Wh9SRwpNtaS-kyKIPw/edit?gid=554855209#gid=554855209)
 
 ## 7.Project Submission:
 - last date of project submission: **4 December 24**.
-- Find project details here: [Project]()
+- Find project details here: [Project](https://github.com/samsuddoha/Python-Programming-P3/blob/main/Project.md)
 
 ## 8. Final Exam:
 - Tentative Final Exam date: **7 December 24**.
